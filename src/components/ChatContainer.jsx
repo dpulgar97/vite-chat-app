@@ -1,4 +1,3 @@
-// src/components/ChatContainer.jsx
 export default function ChatContainer() {
   return (
     <div className="chat-container">

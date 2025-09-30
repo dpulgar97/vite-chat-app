@@ -6,7 +6,6 @@ export default function ChatItem({ name, lastMessage, isActive, onClick }) {
         <p>{lastMessage}</p>
       </div>
       <div className="chat-indicator">
-        {/* Puedes poner un badge de mensajes no leídos aquí */}
       </div>
     </li>
   );
